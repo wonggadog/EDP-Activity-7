@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ACADEMIX\\2nd sem\\EDP\\Act5new\\Act5new.csproj": {}
+    "C:\\Users\\Menard 18\\Desktop\\wonggit\\EDP-Activity-7\\Act5files\\Act5new.csproj": {}
   },
   "projects": {
-    "D:\\ACADEMIX\\2nd sem\\EDP\\Act5new\\Act5new.csproj": {
+    "C:\\Users\\Menard 18\\Desktop\\wonggit\\EDP-Activity-7\\Act5files\\Act5new.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ACADEMIX\\2nd sem\\EDP\\Act5new\\Act5new.csproj",
+        "projectUniqueName": "C:\\Users\\Menard 18\\Desktop\\wonggit\\EDP-Activity-7\\Act5files\\Act5new.csproj",
         "projectName": "Act5new",
-        "projectPath": "D:\\ACADEMIX\\2nd sem\\EDP\\Act5new\\Act5new.csproj",
+        "projectPath": "C:\\Users\\Menard 18\\Desktop\\wonggit\\EDP-Activity-7\\Act5files\\Act5new.csproj",
         "packagesPath": "C:\\Users\\Menard 18\\.nuget\\packages\\",
-        "outputPath": "D:\\ACADEMIX\\2nd sem\\EDP\\Act5new\\obj\\",
+        "outputPath": "C:\\Users\\Menard 18\\Desktop\\wonggit\\EDP-Activity-7\\Act5files\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Menard 18\\AppData\\Roaming\\NuGet\\NuGet.Config",
